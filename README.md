@@ -1,2 +1,2 @@
-# ---
-Simulations, Evolutionary Computing, etc exercises
+# Exercises
+Academic coursework for Aristotle University of Thessaloniki 

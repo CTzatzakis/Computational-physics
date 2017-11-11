@@ -51,13 +51,6 @@ std::uniform_real_distribution<> dis2(0, Height*Width);
 
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE); // used for goto
 COORD CursorPosition; // used for goto
-/*
-void gotoXY(int,int); // Position function
-string ExePath(void); // Get Path function
-std::vector<double> fillGridURandom(unsigned int ); //return vector with the given size of random numbers + average value.
-vector<vector <int>> fillboard(unsigned int X, unsigned int Y, double C); // fill lattice with zeros and ones - where ones serve as traps based on chance as given by C
-vector<vector <int>> squareDisplacement(int ,int , int , int , int , bool ); //
-*/
 //============================================================== main ==================================================
 void gotoXY(int x, int y)
 {

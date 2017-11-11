@@ -8,7 +8,7 @@
  * File Name:	Models_&_Simulation_Techniques.cpp
  ^                              ***
  * Description: Simulation Exercises access point for result extraction.
- ^ This set of exercises, presented below are part of the curriculum in
+ ^ This set of exercises, presented below is part of the curriculum in
  *       Models and Theories of Molecular and Atomic Processes
  ^ in the undergoing MSc study in Nanosciences & Nanotechnologies.
  *                              ***

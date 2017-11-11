@@ -1,7 +1,7 @@
 # Nanoscale-Compute
 Academic coursework for Aristotle University of Thessaloniki 
 
-Simulation Exercises access point for result extraction. This set of exercises, presented below are part of the curriculum in
+Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in
 Models and Theories of Molecular and Atomic Processes in the undergoing MSc study in Nanosciences & Nanotechnologies.
 
 1

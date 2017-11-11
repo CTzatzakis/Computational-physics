@@ -3,7 +3,6 @@
  * @license GNU/GPL http://www.gnu.org/copyleft/gpl.html
  * Company:		Chris Tzatzakis
  + Contact:		Chris.Tzatzakis@hotmail.com
- * Created on:	Mar 09, 2017
  ^
  + Project: 		Monte Carlo based simulations
  * File Name:	Models_&_Simulation_Techniques.cpp
@@ -61,7 +60,7 @@ void gotoXY(int x, int y)
 
 int DisplayMessage()
 {
-    MessageBox( nullptr, TEXT( "No content here yet." ), TEXT( "Message" ), MB_OK );
+    MessageBox( nullptr, TEXT( "Have not updated current content yet." ), TEXT( "Message" ), MB_OK );
 }
 
 void clear_screen()

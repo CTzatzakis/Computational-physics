@@ -10,9 +10,9 @@
  * Description: Simulation Exercises access point for result extraction.
  ^ The set of exercises, presented below is part of the curriculum in
  *       Models and Theories of Molecular and Atomic Processes
- ^ in the undergoing MSc study in Nanosciences & Nanotechnologies.
+ ^           in the MSc Nanosciences & Nanotechnologies.
  *                              ***
- ^ Demo Version 0.5 - not all tests have implemented yet - this is intended purely for reviewing
+ ^ Demo Version - this is intended purely for reviewing
  *                              ***
  * */
 #include <iostream>

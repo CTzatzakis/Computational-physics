@@ -2,7 +2,7 @@
 Academic coursework for Aristotle University of Thessaloniki 
 
 Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in
-Models and Theories of Molecular and Atomic Processes in the undergoing MSc study in Nanosciences & Nanotechnologies.
+Models and Theories of Molecular and Atomic Processes in the MSc Nanosciences & Nanotechnologies.
 
 1
 Create a program which calculates the average of N random numbers taken from a uniform random number distribution. The program 

@@ -20,7 +20,7 @@ perform 10000 runs and find 10 points (one every 100 steps), of which every poin
 results, namely <R2> vs. time. Use the least squares method as a fitting method to find the best straight line and the slope. 
 Describe your conclusions.
 
-5
+4
 Create a program which generates a 2 dimensional lattice of size 1000 x 1000. In this lattice place at random positions a 
 number of trap molecules with concentration c. Place one particle at a random position on the lattice and let it perform a 
 random walk as in the previous exercises. In this walk you will not place a time restriction, i.e. you will not declare a 

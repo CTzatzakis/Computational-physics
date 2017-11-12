@@ -44,12 +44,12 @@ int main()
         gotoXY(20,13); cout << "3) Find <R2> every 100 steps, from 0 to 1000, perform 10000 runs";
         gotoXY(20,14); cout << "   and find 10 points (one every 100 steps) of which every point will";
         gotoXY(20,15); cout << "   be the average of 10000 runs.";
-        gotoXY(20,16); cout << "4) Random walk for 1000 steps in 1D. Calculate the displacement R for ";
-        gotoXY(20,17); cout << "   these N steps and perform 100.000 runs. Find mean displacement and  ";
-        gotoXY(20,18); cout << "   the distribution of R. Same for 500 steps and find the distribution.";
-        gotoXY(20,19); cout << "5) From stud_grades.dat a.x-axis grades in integer values & y-axis their frequency.";
-        gotoXY(20,20); cout << "   b. x-axis grades in decimal values of 1 digit precision and y-axis their frequency.";
-        gotoXY(20,21); cout << "   c. Calculate the mean value & the standard deviation of the distribution";
+        gotoXY(20,16); cout << "4) ... ";
+        gotoXY(20,17); cout << "   ... ";
+        gotoXY(20,18); cout << "   ... ";
+        gotoXY(20,19); cout << "5) ... ";
+        gotoXY(20,20); cout << "   ... ";
+        gotoXY(20,21); cout << "   ... ";
         gotoXY(20,22); cout << "6)Generate a 2D lattice with random positioned traps & concentration c.";
         gotoXY(20,23); cout << "  One particle performs a random walk & will stop when it will fall on a trap";
         gotoXY(20,24); cout << "  Save the trapping times and make the distribution for 100000 runs.";

@@ -1,5 +1,5 @@
 # Nanoscale-Compute
-Academic coursework for Aristotle University of Thessaloniki 
+Nanoscale Computation - Academic coursework for Aristotle University of Thessaloniki 
 
 Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in
 Models and Theories of Molecular and Atomic Processes in the MSc Nanosciences & Nanotechnologies.

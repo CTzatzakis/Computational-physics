@@ -29,3 +29,13 @@ time. Perform 100000 runs, save the trapping times and make the distribution of 
 When the particle reaches the borders of the lattice it shouldn’t be allowed to fall outside but to remain in the lattice, 
 either by returning on its former position or by being placed in the opposite site of the lattice. Run this program for 
 c = 10^-2 and 10^-3. Put both distributions on the same graph. Describe your conclusions. 
+
+5
+Percolation
+Create a two (2) dimensional lattice of size NxN. N should take different values and usually  be  in  the  interval  
+100<N<1000.  The lattice  sites  will  be  0  or  1  with  a probability p to be 1 and (1-p) to be 0. After that, apply 
+the CMLT algorithm to find the  distribution  of  clusters.  Change  p  from  0.1  to  0.8,  initially  with  Δp=0.1  but  
+near  the critical point pc with Δp=0.01. 
+
+6
+Percolation

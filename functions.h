@@ -34,7 +34,7 @@ using namespace std;
 #define TIME 1000 /* number of time steps aka steps*/
 #define FLAG 100  /* base step */
 #define NP 10000  /* number of Runs */
-//Exercise 6 variables
+//Exercise 4 variables
 #define Height 1000
 #define Width 1000
 #define Chance 0.01

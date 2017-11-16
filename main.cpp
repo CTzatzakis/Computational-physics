@@ -44,15 +44,15 @@ int main()
         gotoXY(20,13); cout << "3) Find <R2> every 100 steps, from 0 to 1000, perform 10000 runs";
         gotoXY(20,14); cout << "   and find 10 points (one every 100 steps) of which every point will";
         gotoXY(20,15); cout << "   be the average of 10000 runs.";
-        gotoXY(20,16); cout << "4) ... ";
-        gotoXY(20,17); cout << "   ... ";
-        gotoXY(20,18); cout << "   ... ";
-        gotoXY(20,19); cout << "5) ... ";
-        gotoXY(20,20); cout << "   ... ";
+        gotoXY(20,16); cout << "4) Generate a 2D lattice with random positioned traps & concentration c.";
+        gotoXY(20,17); cout << "   One particle performs a random walk & will stop when it will fall on a trap";
+        gotoXY(20,18); cout << "   Save the trapping times and make the distribution for 100000 runs.";
+        gotoXY(20,19); cout << "5) Percolation v1 ";
+        gotoXY(20,20); cout << "   -- see README file for more details --  ";
         gotoXY(20,21); cout << "   ... ";
-        gotoXY(20,22); cout << "6)Generate a 2D lattice with random positioned traps & concentration c.";
-        gotoXY(20,23); cout << "  One particle performs a random walk & will stop when it will fall on a trap";
-        gotoXY(20,24); cout << "  Save the trapping times and make the distribution for 100000 runs.";
+        gotoXY(20,22); cout << "6) Percolation v2 ";
+        gotoXY(20,23); cout << "   -- see README file for more details -- ";
+        gotoXY(20,24); cout << "   ... ";
         gotoXY(20,25); cout << "7)Quit Program";
 
         system("pause>nul"); // the >nul bit causes it the print no message
@@ -222,21 +222,9 @@ int main()
                     break;
                 }
 
-                case 3: {
+                case 3:  {
                     clear_screen();
-                    DisplayMessage();
-                    break;
-                }
-
-                case 4: {
-                    clear_screen();
-                    DisplayMessage();
-                    break;
-                }
-
-                case 5: {
-                    clear_screen();
-                    cout << "Exercise 6   Loading... ";
+                    cout << "Exercise 4   Loading... ";
                     //c = 10^-2 and 10^-3 aka 0.01 & 0.001
                     int j=0,k=0,steps=0,chanceCounter=0;
                     //i=0;
@@ -254,7 +242,7 @@ int main()
                     {
                         stringstream ss;
                         string location, filename;
-                        location = saveLocation + "\\6thEx_TimedTraps_v";
+                        location = saveLocation + "\\4thEx_TimedTraps_v";
                         ss << location << chanceCounter << ".txt";
                         filename = ss.str();
                         ofstream outputFile6(filename);
@@ -327,10 +315,22 @@ int main()
                         for(itr=stepMap.begin(); itr != stepMap.end(); ++itr)
                             outputFile6 << " " << itr->first << "\t\t" << itr->second << endl;
                         //----------------------------------------------------------------------------------------------
-                        outputFile6.close();cout << "\nOutput File 6thEx_TimedTraps Run" << chanceCounter+1 <<" is Complete! Waiting...\n";
+                        outputFile6.close();cout << "\nOutput File 4thEx_TimedTraps Run" << chanceCounter+1 <<" is Complete! Waiting...\n";
                         stepMap.clear();
                         chanceCounter++;
                     }cout << "Process complete! You may continue.\n Output files can be found at:"<< saveLocation << endl;
+                    break;
+                }
+
+                case 4: {
+                    clear_screen();
+                    // Percolation
+                    break;
+                }
+
+                case 5: {
+                    clear_screen();
+                    DisplayMessage();
                     break;
                 }
 

@@ -1,4 +1,4 @@
-# Nanoscale-Compute
+# Nanoscale_Computation
 Nanoscale Computation - Academic coursework for Aristotle University of Thessaloniki 
 
 Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in

@@ -324,7 +324,10 @@ int main()
 
                 case 4: {
                     clear_screen();
-                    // Percolation
+                    /* Percolation
+                     * The  cluster  distribution  in  the  Percolation  Model  is  performed  using
+                     * the Cluster - Multiple - Labelling - Technique (CMLT)
+                     */
                     break;
                 }
 

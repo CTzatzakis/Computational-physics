@@ -34,6 +34,7 @@ c = 10^-2 and 10^-3. Put both distributions on the same graph. Describe your con
 
 5
 Percolation
+
 Create a two (2) dimensional lattice of size NxN. N should take different values and usually  be  in  the  interval  
 100<N<1000.  The lattice  sites  will  be  0  or  1  with  a probability p to be 1 and (1-p) to be 0. After that, apply 
 the CMLT algorithm to find the  distribution  of  clusters.  Change  p  from  0.1  to  0.8,  initially  with  Δp=0.1  but  
@@ -42,6 +43,7 @@ near  the critical point pc with Δp=0.01.
 6
 Percolation
 
+[...]
 
 ## License
 

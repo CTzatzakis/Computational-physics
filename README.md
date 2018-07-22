@@ -4,6 +4,8 @@ Academic coursework for Aristotle University of Thessaloniki
 Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in
 Models and Theories of Molecular and Atomic Processes in the MSc Nanosciences & Nanotechnologies.
 
+## Content
+### Problems to solve
 1
 Create a program which calculates the average of N random numbers taken from a uniform random number distribution. The program 
 must run for Ν = 10, 100, 1000, 10000, 100000, 1000000 random numbers. Plot the mean value as a function of N (axis of N should 
@@ -39,3 +41,8 @@ near  the critical point pc with Δp=0.01.
 
 6
 Percolation
+
+
+## License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 - see the [LICENSE](LICENSE) file for details

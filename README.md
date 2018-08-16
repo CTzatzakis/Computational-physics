@@ -1,11 +1,20 @@
 # Computation
-Academic coursework for Aristotle University of Thessaloniki 
 
-Simulation Exercises access point for result extraction. This set of exercises, presented below is part of the curriculum in
-Models and Theories of Molecular and Atomic Processes in the MSc Nanosciences & Nanotechnologies.
+# Table of Contents
+* [Motivation](#motivation)
+* [Description](#description)
+* [Problem solving](#problem-solving)
+* [License](#license)
 
-## Content
-### Problems to solve
+## Motivation
+
+I wanted to create a starting point to modify with ease when running simulations in nanoscale. This is a basis of exercises to do just that.
+
+## Description
+
+Simulation Exercises access point for result extraction which can be used in modeling and theoretical approach of molecular and atomic processes in scales like mikro or nano.
+
+## Problem solving
 1
 Create a program which calculates the average of N random numbers taken from a uniform random number distribution. The program 
 must run for Ν = 10, 100, 1000, 10000, 100000, 1000000 random numbers. Plot the mean value as a function of N (axis of N should 

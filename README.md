@@ -12,7 +12,7 @@ I wanted to create a starting point to modify with ease when running simulations
 
 ## Description
 
-Simulation Exercises access point for result extraction which can be used in modeling and theoretical approach of molecular and atomic processes in scales like mikro or nano.
+Simulation exercises access point for result extraction which can be used in modeling and theoretical approach of molecular and atomic processes in scales like mikro or nano.
 
 ## Problem solving
 1

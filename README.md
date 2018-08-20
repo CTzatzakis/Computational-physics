@@ -1,4 +1,4 @@
-# Computation
+# Computational Physics
 
 # Table of Contents
 * [Motivation](#motivation)
@@ -8,7 +8,7 @@
 
 ## Motivation
 
-I wanted to create a starting point to modify with ease when running simulations in nanoscale. This is a basis of exercises to do just that.
+I wanted to create a starting point to modify with ease when running simulations in micro or nano-scale. This is a basis of exercises to do just that.
 
 ## Description
 

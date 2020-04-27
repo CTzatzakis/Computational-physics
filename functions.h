@@ -5,7 +5,7 @@
  + Contact:		Chris.Tzatzakis@hotmail.com
  ^
  + Project: 		Monte Carlo based simulations
- * File Name:	Models_&_Simulation_Techniques.cpp
+ * File Name:	functions.h (Models_&_Simulation_Techniques)
  ^                              ***
  * Description: Simulation Exercises access point for result extraction.
  ^ The set of exercises, presented below is part of the curriculum in
